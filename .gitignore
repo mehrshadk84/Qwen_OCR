@@ -1,0 +1,14 @@
+output/
+dataset/
+temp_uploads/
+.gradio/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+venv/
+env/
+.env
+*.zip
+*.tar.gz
+*.log

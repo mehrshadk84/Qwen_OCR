@@ -1,0 +1,8 @@
+.gradio/
+dataset/
+output/
+temp_uploads/
+venv/
+__pycache__/
+*.safetensors
+*.bin
